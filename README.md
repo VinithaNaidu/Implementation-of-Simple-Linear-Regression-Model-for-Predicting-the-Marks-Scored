@@ -86,8 +86,32 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+### df.head()
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/94192dcb-de29-4fea-80bc-88e858c95ad8)
 
+### df.tail()
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/f180113a-fc92-4790-b389-da0052ed8ba2)
+
+### Array value of X
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/9da0c436-47c3-4f0a-9e39-3afa02325d75)
+
+### Array value of Y
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/6bf0425f-3dc2-4cd1-acdb-0387199fcd6d)
+
+### Values of Y prediction
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/feb32dbf-f127-4176-8485-bf0f8fbdb6a6)
+
+### Array values of Y test
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/f0654024-6ccc-4c53-a6ae-17e896f1a007)
+
+### Training Set Graph
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/6eb8a1a5-2684-4cd5-a2f4-ab091b8337e7)
+
+### Test Set Graph
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/9d506a26-6479-4e33-9d10-19fd4268d616)
+
+### Values of MSE, MAE and RMSE
+![image](https://github.com/VinithaNaidu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121166004/c115f593-01c2-480e-a34e-39b2d07250d9)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
